@@ -10,7 +10,7 @@ export default function LoginFour({setPage}) {
                 <Image 
                     source={require("../asset/loginFour.png")}
                 />
-                <View style={styles.empty} />
+                <View style={styles.empty} /> 
                 <Text style={styles.header} >PMPML</Text>
             </View>
             <View style={styles.boxtwo} >
